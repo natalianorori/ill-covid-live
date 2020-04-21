@@ -12,6 +12,15 @@
 
   <body>
 
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <h1 id="project_title">FAQ</h1>
+            <h2 id="project_tagline">Last updated: April 15, 2020</h2>
+        </header>
+    </div>
+
+
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
@@ -19,16 +28,13 @@
       </section>
     </div>
 
+    <!-- FOOTER CONTENT -->
 
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Created by the <a href="https://www.ifla.org/docdel" target="_blank">IFLA Document Delivery and Resource Sharing Section Standing Committee</a></p>
+      </footer>
+    </div>
+
   </body>
 </html>
