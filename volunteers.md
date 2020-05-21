@@ -64,7 +64,7 @@ Kyla|O'Hara|Towson University, Albert S. Cook Library|US
 Joe|Gutekanst|Davidson College Library|US
 Katia|Medawar|Qatar National Library|Qatars
 Blessing|Chiparausha|Bindura University of Science Education|Zimbabwe
-Zaida|Sánchez Terrer|Universidad de Murcia|
+Zaida|Sánchez Terrer|Universidad de Murcia|Spain
 Mallikarjun|Dora|Vikram Sarabhai Library, IIM Ahmedabad|India
 Severiano|Delgado Cruz|Universidad de Salamanca|Spain
 Rosa|Escobar|University of Almería-Library|Spain
@@ -83,14 +83,14 @@ Pablo|Santos|Universidade da Coruña Library|Spain
 Stefania|Manzo|Biblioteca della Scuola Normale Superiore|Italy
 Kate|Zdepski|University of Massachusetts, Amherst|US
 Moreno|Barros|Technology Center at Universidade Federal do Rio de Janeiro|Brazil
-Lyudmila|Baranova|Imperial College London (Central Library)|UK
+Lyudmila|Baranova|Imperial College London<br/>(Central Library)|UK
 James|Broomhall|Swansea University|UK
-Geraldine|Farrell|Imperial College London (Hammersmith Campus Library)|UK
+Geraldine|Farrell|Imperial College London<br/>(Hammersmith Campus Library)|UK
 Charlotte|Jackson|Brooklyn College Library|US
 Rowena|Acquino|Qatar National Library|Qatar
-Rebecca|Jones|Imperial College London (Charing Cross Campus Library)|UK
-Alice|Lowry|Imperial College London(Charing Cross Campus Library)|UK
-Andrea|Mercier|Imperial College London (Charing Cross Campus Library)|UK
+Rebecca|Jones|Imperial College London<br/>(Charing Cross Campus Library)|UK
+Alice|Lowry|Imperial College London<br/>(Charing Cross Campus Library)|UK
+Andrea|Mercier|Imperial College London<br/>(Charing Cross Campus Library)|UK
 
 Thanks also goes to the [IFLA DDRS Standing Committee members](https://www.ifla.org/standing-committee/15) for providing their expertise in starting, promoting and subsequently providing their resources for the initiative.
 
