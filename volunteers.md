@@ -101,6 +101,7 @@ Sofie|O’Shea|Swansea University|UK
 Teresa|Sánchez-Sanz|Universidad Politécnica de Valencia|Spain
 Ruilian|Chen|Imperial College London<br/>(Royal Brompton Campus Library)|UK
 Lynda|Sadusky|Drexel University|US
+Brian|Miller|The Ohio State University|US
 
 Thanks also goes to the [IFLA DDRS Standing Committee members](https://www.ifla.org/standing-committee/15) for providing their expertise in starting, promoting and subsequently providing their resources for the initiative.
 
